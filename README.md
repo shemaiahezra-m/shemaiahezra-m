@@ -36,4 +36,4 @@ At present, I am focused on:
 [![](https://visitcount.itsvg.in/api?id=shemaiahezra-m&icon=3&color=10)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[Stats](https://github-readme-stats.vercel.app/api?username=shemaiahezra&cache_seconds=3600)
