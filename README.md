@@ -34,6 +34,3 @@ At present, I am focused on:
 [![Gmail](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magpayo.shemaiahezra@gmail.com) 
 
 [![](https://visitcount.itsvg.in/api?id=shemaiahezra-m&icon=3&color=10)](https://visitcount.itsvg.in)
-
-
-[Stats](https://github-readme-stats.vercel.app/api?username=shemaiahezra&cache_seconds=3600)
