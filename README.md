@@ -30,6 +30,7 @@ At present, I am focused on:
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shemaiahezra) 
+[![Gmail](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shemaiahezra.magpayo@gmail.com)
 [![Gmail](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magpayo.shemaiahezra@gmail.com) 
 
 [![](https://visitcount.itsvg.in/api?id=shemaiahezra-m&icon=3&color=10)](https://visitcount.itsvg.in)
