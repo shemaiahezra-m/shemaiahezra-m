@@ -22,15 +22,12 @@
 
 ##### About Me
 
-<sub>
+
 I started exploring design through creative pubmats, youth media, and visual storytelling — which eventually led me to become curious about how digital experiences are actually built.
-</sub>
 
 <br>
 
-<sub>
 Now, as an Information Technology student, I continue to explore the intersection of <b>development</b> and <b>design</b>, with a growing interest in <b>front-end development</b>, <b>UI/UX</b>, and creating clean, user-centered interfaces that feel both functional and visually engaging.
-</sub>
 
 ---
 
