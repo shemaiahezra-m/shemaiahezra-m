@@ -101,6 +101,6 @@ I never expected that learning basic HTML back in Grade 7 — something I though
 
 <h6>Stats</h6>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shemaiahezra-m&hide_border=true&background=FFFFFF00&ring=B58B7A&fire=B58B7A&currStreakLabel=7A8B73&sideLabels=8A786B&dates=A5978B&sideNums=7A8B73"/>
+<img src="https://streak-stats.demolab.com?user=shemaiahezra-m&hide_border=true&background=FFFFFF00&ring=B58B7A&fire=B58B7A&currStreakLabel=7A8B73&sideLabels=8A786B&dates=A5978B&sideNums=7A8B73"/>
 
 </div>
