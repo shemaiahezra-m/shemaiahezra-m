@@ -97,9 +97,6 @@ I never expected that learning basic HTML back in Grade 7 — something I though
 
 ---
 <div align="center">
-
 <h6>Stats</h6>
-
 ![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=shemaiahezra-m&theme=transparent&hide_border=true)
-
 </div>
