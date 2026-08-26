@@ -96,13 +96,10 @@ I never expected that learning basic HTML back in Grade 7 — something I though
 </div>
 
 ---
-
 <div align="center">
 
 <h6>Stats</h6>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shemaiahezra-m&theme=transparent&hide_border=true&ring=B58B7A&fire=B58B7A&currStreakLabel=7A8B73&sideLabels=8A786B&dates=A5978B&sideNums=7A8B73)](https://git.io/streak-stats)
-
+![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=shemaiahezra-m&theme=transparent&hide_border=true)
 
 </div>
-
