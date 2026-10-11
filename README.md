@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/shemaiahezra-m/shemaiahezra-m/main/Dark.svg" width="30"/> Shemaiah Ezra Magpayo
 
-`BSIT Sophomore • UI/UX • Frontend Developer`
+`BSIT Junior • UI/UX • Frontend Developer`
 
 <a href="YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/linkedin-EDE4DD?style=flat-square&logo=linkedin&logoColor=7A8B8E"/>
@@ -99,6 +99,6 @@ I never expected that learning basic HTML back in Grade 7 — something I though
 <div align="center">
 <h6>Stats</h6>
   
-![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=shemaiahezra-m&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=shemaiahezra-m&hide_border=true&background=00000000&ring=B97C73&fire=C97A7E&currStreakLabel=7A8B8E&sideLabels=8A817C&currStreakNum=6A5E57&sideNums=6A5E57&dates=A69B91&stroke=EDE4DD)
 
 </div>
