@@ -21,7 +21,7 @@
 
 ---
 
-##### About Me
+##### About Me 
 
 My interest in multimedia started in elementary school through video editing, which grew into a passion for creative media, visual storytelling, and design.
 
